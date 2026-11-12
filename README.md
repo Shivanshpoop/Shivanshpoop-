@@ -87,7 +87,7 @@ I'm interested in connecting with developers,
 recruiters and people working on innovative projects.
 
 - GitHub: https://github.com/shivanshpoop
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/shivansh-verma-239888350
 
 ---
 
